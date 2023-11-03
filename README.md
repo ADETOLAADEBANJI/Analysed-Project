@@ -8,7 +8,7 @@
 - [Explanatory Data Analysis](#explanatory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Research](#research)
-- [Results/Findings](#results/findings)
+- [Results and Findings](#results-and-findings)
 - [Summary](#summary)
 - [Dashboard](#dashboard)
 ### Project Overview
@@ -62,7 +62,7 @@ Include some interesting code/features worked with
 This data gives the opportunity to conduct research on credit card usage, consumer behavior. This analysis shows patterns, trends, and relationships within the data to gain a better understanding of credit card spending habits in India.
 The analysis identified distinct customer’s spending habit, giving visualizations on transactions by month name and  gender, transactions amount by expenses type in percentage and in total, transactions amount made by different cities, the card type used and many more.
 
-### Results/Findings
+### Results and Findings
 
 1.	The female gender has 54.12% o while the male gender has 45.88% of the total transactions made
 2.	Analyzing the expenses: Bills takes the highest percentage with 22.26%, Fuel takes 19.37%, Grocery takes 17.63%, Entertainment takes 17.83% while food takes the second highest with 20.24% 
