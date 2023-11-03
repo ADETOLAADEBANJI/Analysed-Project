@@ -7,8 +7,10 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Explanatory Data Analysis](#explanatory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Rsearch](#research)
+- [Research](#research)
 - [Results/Findings](#results/findings)
+- [Summary](#summary)
+- [Dashboard](#dashboard)
 ### Project Overview
 
   This project contains a dataset that gives valuable insights into credit card transactions that were made in India, providing an elaborate view of the spending habits across the country. The dataset consists of variables, including gender, card type, city, expense types, and transaction amounts. By exploring this dataset, researchers and analysts can see through trends in customer spending and see the correlations between different data points, enabling them to derive valuable business intelligence.
